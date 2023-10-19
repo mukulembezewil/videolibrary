@@ -3,7 +3,6 @@
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://mukulembezewil.github.io/my_first_react_app/",
 	"scripts": {
 		"dev": "vite",
 		"predeploy": "npm run build",
